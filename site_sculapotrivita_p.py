@@ -12,7 +12,7 @@ PRODUCTS = [
      'link': emag('Bosch EasyDrill 18V-40'), 'link_label': 'Vezi prețul pe eMAG', 'store': 'căutarea modelului pe eMAG',
      'art': art('drill', 'EasyDrill 18V', BG, '#c5e1a5'),
      'keys': [('Cuplu', '32 Nm'), ('Turație', '1.630 rpm'), ('Acumulator', '1 × 2 Ah'), ('Platformă', 'Bosch 18V (verde)')],
-     'desc': """<p>EasyDrill 18V-40 face parte din gama „verde” Bosch, pentru acasă, compatibilă cu acumulatorii Power for All 18V (același acumulatori merg și la uneltele de grădină Bosch și la alte mărci din alianță). Are 32 Nm, 1.630 rpm și mandrină rapidă.</p>
+     'desc': """<p>EasyDrill 18V-40 face parte din gama „verde” Bosch, pentru acasă, compatibilă cu acumulatorii Power for All 18V (aceiși acumulatori merg și la uneltele de grădină Bosch și la alte mărci din alianță). Are 32 Nm, 1.630 rpm și mandrină rapidă.</p>
 <p>Este suficientă pentru montat mobilă, înșurubat în lemn, găurit în lemn și metal subțire. Pentru beton ai nevoie de percuție sau de un rotopercutor.</p>
 <h2>Merită pentru tine?</h2><p>Da, dacă vrei o sculă ieftină și de calitate pentru casă. Dacă faci renovări, sari direct la o mașină cu percuție și doi acumulatori.</p>""",
      'pros': ['Preț mic', 'Ușoară și compactă', 'Acumulator compatibil Power for All', 'Mandrină rapidă'],

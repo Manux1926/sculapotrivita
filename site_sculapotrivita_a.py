@@ -41,7 +41,7 @@ PAGES = [
 <p>Dacă construiești o terasă, o pergolă sau renovezi o casă întreagă, o singură mașină nu ajunge. Kitul DCK266P2 (circa 1.799 de lei) are o mașină compactă cu percuție (DCD796) și un înșurubător cu impact (DCF887), ambele fără perii, plus doi acumulatori de 5 Ah. Înșurubătorul cu impact bagă șuruburi lungi în lemn fără să-ți răsucească încheietura, iar mașina cu percuție rămâne pentru găurit.</p>
 
 <h2>Cea mai bună pentru lucru zilnic: DeWalt DCD805P2T</h2>
-<p>Cu 90 Nm, percuție și doi acumulatori de 5 Ah, DCD805 este mașina pentru meșterași care găuresc în fiecare zi, cu burghie mari, freze pentru lemn și șuruburi lungi. Costă circa 1.832 de lei. Pentru casă este supradimensionată: DCD709 face aceeași treabă pentru jumătate din preț.</p>
+<p>Cu 90 Nm, percuție și doi acumulatori de 5 Ah, DCD805 este mașina pentru meseriași care găuresc în fiecare zi, cu burghie mari, freze pentru lemn și șuruburi lungi. Costă circa 1.832 de lei. Pentru casă este supradimensionată: DCD709 face aceeași treabă pentru jumătate din preț.</p>
 {{PRODUCTS}}
 
 <h2>Cum alegi în 3 minute</h2>

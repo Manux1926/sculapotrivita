@@ -6,4 +6,4 @@ Site: https://sculapotrivita.online — conținut în `site_sculapotrivita.py` (
 
 Opțional, `site_<sid>_a.py` adaugă articole noi (`PAGES`) și corecturi de produse (`PATCH`).
 
-Etichetele de verificare Profitshare (`PS_META` din build.py) se pun în `<head>` pe toate paginile.
+Verificare Profitshare: etichetele `PS_META` în `<head>` și fișierele `<cod>.html` (`PS_CODES` din build.py) în rădăcina site-ului.

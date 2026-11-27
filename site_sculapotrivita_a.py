@@ -186,3 +186,69 @@ _CARDS = ('<a class="c" href="/cea-mai-buna-bormasina-cu-acumulator-2026.html"><
 for _p in _s.SITE['pages']:
     if _p['slug'] == 'index' and '/bormasina-pentru-casa.html' not in _p['body']:
         _p['body'] = _p['body'].replace('<div class="cards">\n', '<div class="cards">\n' + _CARDS + '\n', 1)
+
+# 28 nov 2026: guía de regalos (semana 1 del plan de 30 días).
+PAGES.append({
+    'slug': 'cadou-bricolaj-craciun',
+    'date': '2026-11-28',
+    'date_ro': '28 noiembrie 2026',
+    'title': 'Cadou pentru pasionații de bricolaj: idei de Crăciun pe buget',
+    'kind': 'article',
+    'short': 'Cadou bricolaj',
+    'desc': 'Idei de cadou pentru cine meșterește prin casă, de la 25 la peste 1.000 de lei: lanterne, seturi de burghie, detectoare, nivele laser și bormașini. Prețuri din România.',
+    'h1': 'Cadou pentru pasionații de bricolaj: idei pe buget',
+    'lead': 'Cadouri care chiar se folosesc, de la un set de biți sub 30 de lei la o bormașină cu percuție, cu prețuri din magazinele din România.',
+    'body': """<p>Pentru cine meșterește prin casă, un cadou bun este o sculă pe care o folosește des, nu una care stă în cutie. Partea grea este că pasionații de bricolaj au deja multe lucruri, iar unele accesorii merg doar cu anumite mărci de acumulatori. Am ales cadouri care se potrivesc aproape oricui și le-am grupat pe bugete. Prețurile sunt de la Hornbach, Altex, eMAG și magazinul online Bosch, din noiembrie 2026.</p>
+<p>Înainte de toate, <strong>află ce platformă de acumulatori are</strong> (Bosch verde, Bosch Professional albastru, DeWalt, Makita, Einhell). O sculă „fără acumulator” pe platforma lui este un cadou excelent și mai ieftin; aceeași sculă pe altă platformă îl obligă să cumpere încă un acumulator și un încărcător. Dacă nu știi, alege din cadourile fără acumulator de mai jos.</p>
+
+<h2>Pe scurt, pe bugete</h2>
+<div class="tw"><table class="t"><tr><th>Buget</th><th>Cadou</th><th>Preț orientativ</th><th>De ce</th></tr>
+<tr><td>sub 100 lei</td><td>Set biți și burghie, 25 de piese</td><td>24,90 lei</td><td>Pentru sertarul de rezervă</td></tr>
+<tr><td>sub 100 lei</td><td>Lanternă frontală cu acumulator (500 lm)</td><td>63,90 lei</td><td>Mâinile libere în pod sau sub chiuvetă</td></tr>
+<tr><td>sub 100 lei</td><td>Burghie metal HSS-Cobalt Bosch, 6 piese</td><td>81,33 lei</td><td>Găuresc și în inox</td></tr>
+<tr><td>100–200 lei</td><td>Biți Bosch Professional Extra Hard, 43 de piese</td><td>119 lei</td><td>Rezistă la înșurubătoare cu impact</td></tr>
+<tr><td>200–400 lei</td><td>Detector Bosch Truvo</td><td>~261 lei</td><td>Găurești fără să nimerești un cablu</td></tr>
+<tr><td>200–400 lei</td><td>Nivelă laser Bosch Quigo</td><td>~300 lei</td><td>Rafturi și tablouri drepte din prima</td></tr>
+<tr><td>200–400 lei</td><td>Șurubelniță cu acumulator Bosch IXO</td><td>326 lei</td><td>Pentru mobilă și treburi mărunte</td></tr>
+<tr><td>200–400 lei</td><td>Mașină de găurit Bosch EasyDrill 18V-40</td><td>~353 lei</td><td>Prima „bormașină” bună</td></tr>
+<tr><td>peste 900 lei</td><td>DeWalt DCD709M2T (cu percuție)</td><td>~949 lei</td><td>Pentru cine renovează</td></tr></table></div>
+
+<h2>Sub 100 de lei: cadouri mici, folosite des</h2>
+<p><strong>O lanternă frontală cu acumulator</strong> este cadoul pe care orice meșter îl apreciază după prima lucrare sub chiuvetă sau în pod. Modelul Lumak Pro de la Hornbach (63,90 lei) are 500 de lumeni și acumulator de 1.500 mAh, cu circa 2,5 ore de lumină la putere maximă. Varianta și mai simplă este o lampă de lucru cu magnet, care se prinde de orice suprafață metalică (de la circa 50 de lei).</p>
+<p><strong>Burghiele bune</strong> se termină mereu. Un set Bosch HSS-Cobalt de 6 piese (2–8 mm, 81,33 lei) găurește și oțel inoxidabil, unde burghiele obișnuite se tocesc imediat. Pentru un cadou-surpriză ieftin, un set de 25 de biți și burghie pentru lemn, zidărie și metal costă sub 25 de lei la Hornbach; nu e calitate profesională, dar e perfect ca set de rezervă în mașină sau la țară.</p>
+<p>Dacă are deja un ciocan rotopercutor, un set de burghie SDS-plus Bosch (5 piese, 5–10 mm) costă în jur de 93 de lei și se folosește la fiecare gaură în beton.</p>
+
+<h2>100–200 de lei: accesorii de calitate</h2>
+<p><strong>Biții Bosch Professional Extra Hard</strong> (set de 43 de piese, 119 lei) sunt făcuți să reziste la înșurubătoarele cu impact, care distrug biții ieftini în câteva minute. Merg pe orice mașină cu prindere de 1/4". Pentru cine lucrează mult în metal, setul Bosch HSS-G de 19 burghie (1–10 mm, 147 de lei) acoperă practic orice gaură de care are nevoie acasă.</p>
+
+<h2>200–400 de lei: scule de măsură și scule mici</h2>
+<p><strong>Detectorul Bosch Truvo</strong> (în jur de 261 de lei în magazinul online Bosch) găsește cablurile sub tensiune și obiectele metalice din perete, până la 70 mm adâncime pentru metal. Un LED în stil semafor arată unde nu trebuie să găurești. Este cadoul care poate preveni o reparație scumpă, mai ales într-o casă veche, unde nimeni nu mai știe pe unde trec cablurile.</p>
+<p><strong>Nivela laser Bosch Quigo</strong> (circa 300 de lei) proiectează simultan o linie orizontală și una verticală și se autonivelează. Rafturile, tablourile și dulapurile suspendate ies drepte din prima. Varianta Quigo Plus, cu trepied, costă circa 392 de lei, iar Quigo Green, cu linii verzi mai vizibile, circa 439 de lei în set cu trepied.</p>
+<p><strong>Șurubelnița cu acumulator Bosch IXO</strong> (326 de lei la Hornbach) este o sculă mică, de 3,6 V, cu care se montează mobila și se strâng șuruburile mărunte fără să scoți bormașina. Este potrivită și pentru cineva care abia începe să meșterească.</p>
+<p><strong>Bosch EasyDrill 18V-40</strong> (circa 353 de lei la Altex) este cadoul pentru cine nu are încă o mașină de găurit și înșurubat cu acumulator. Are 32 Nm și face parte din sistemul de acumulatori Power for All 18V. Nu are percuție, deci nu este pentru găuri în cărămidă sau beton.</p>
+{{CARDS:bosch-easydrill-18v-40,dewalt-dcd709m2t,makita-dhp482rfe}}
+
+<h2>Peste 900 de lei: o bormașină serioasă</h2>
+<p>Pentru cineva care renovează sau lucrează des, o mașină cu percuție este cadoul „mare”. <strong>DeWalt DCD709M2T</strong> (circa 949 de lei) are motor fără perii, 65 Nm și doi acumulatori de 4 Ah. <strong>Makita DHP482RFE</strong> (1.089 lei la Hornbach) este alegerea dacă are deja scule Makita. Le-am comparat în <a href="/makita-dhp482-vs-dewalt-dcd709.html">Makita DHP482 vs DeWalt DCD709</a>, iar pentru toate variantele vezi <a href="/cea-mai-buna-bormasina-cu-acumulator-2026.html">cea mai bună bormașină cu acumulator în 2026</a>.</p>
+
+<h2>Cadouri de evitat</h2>
+<ul><li><strong>Valizele ieftine „100 de piese în 1”</strong>, cu chei și biți din oțel moale. Arată impresionant, dar se tocesc la prima folosire.</li>
+<li><strong>O sculă cu acumulator pe altă platformă</strong> decât cea pe care o are deja, dacă nu o iei în kit cu acumulator și încărcător.</li>
+<li><strong>Scule profesionale foarte specializate</strong> (freză, fierăstrău circular mare) fără să știi că are nevoie de ele.</li></ul>
+
+<h2>Dacă nu știi ce are</h2>
+<p>Un card cadou la un magazin de bricolaj sau un set de burghie și biți de calitate sunt alegeri sigure. Sau întreabă-l, discret, ce platformă de acumulatori folosește: răspunsul îți deschide toate variantele. Ghidul nostru despre <a href="/platforme-acumulatori-18v.html">platformele de acumulatori de 18 V</a> te ajută să înțelegi diferențele.</p>
+<p class="note">Surse: prețuri și fișe de produs Hornbach România, Altex, eMAG și magazinul online Bosch (bosch-diy.com/ro), noiembrie 2026. Prețurile se pot schimba, mai ales în perioada sărbătorilor.</p>""" + NOTE,
+    'faq': [
+        ('Ce cadou să iau unui pasionat de bricolaj care are deja multe scule?',
+         'Accesorii de calitate care se consumă (burghie, biți rezistenți la impact), o sculă de măsură (detector de cabluri, nivelă laser) sau o sculă fără acumulator pe platforma pe care o folosește deja.'),
+        ('Ce cadou de bricolaj pot face sub 100 de lei?',
+         'O lanternă frontală cu acumulator (în jur de 64 de lei), un set de burghie Bosch HSS-Cobalt (în jur de 81 de lei) sau un set de burghie SDS-plus, dacă are un ciocan rotopercutor.'),
+        ('Merită o bormașină ca și cadou?',
+         'Da, dacă nu are una sau dacă știi ce platformă de acumulatori folosește. Pentru treburi ușoare, Bosch EasyDrill 18V-40; pentru renovări, o mașină cu percuție precum DeWalt DCD709.'),
+    ],
+})
+_CARD_GIFT = '<a class="c" href="/cadou-bricolaj-craciun.html"><span class="tag">Cadouri</span><b>Cadou pentru pasionații de bricolaj</b><span>Idei pe bugete, de la 25 de lei.</span></a>\n'
+for _p in _s.SITE['pages']:
+    if _p['slug'] == 'index' and '/cadou-bricolaj-craciun.html' not in _p['body']:
+        _p['body'] = _p['body'].replace('<div class="cards">\n', '<div class="cards">\n' + _CARD_GIFT, 1)
